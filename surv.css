@@ -151,13 +151,13 @@ form{
 }
 @media (min-width:430px){
     form{
-        padding: 1.5rem;
+        padding: 1.6rem;
     }
     .container{
         max-width: 540px;
     }
     .txtname {
-        min-width: 350px;
+        min-width: 340px;
     }
 }
 @media (min-width:540px){
