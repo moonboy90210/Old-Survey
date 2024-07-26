@@ -149,6 +149,17 @@ form{
         min-width: 300px;
     }
 }
+@media (min-width:400px){
+    form{
+        padding: 1.6rem;
+    }
+    .container{
+        max-width: 540px;
+    }
+    .txtname {
+        min-width: 320px;
+    }
+}
 @media (min-width:430px){
     form{
         padding: 1.6rem;
