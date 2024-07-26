@@ -146,7 +146,7 @@ form{
         padding: 1.5rem;
     }
     .txtname {
-        min-width: 320px;
+        min-width: 300px;
     }
 }
 @media (min-width:430px){
