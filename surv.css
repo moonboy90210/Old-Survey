@@ -157,7 +157,7 @@ form{
         max-width: 540px;
     }
     .txtname {
-        min-width: 340px;
+        min-width: 320px;
     }
 }
 @media (min-width:540px){
